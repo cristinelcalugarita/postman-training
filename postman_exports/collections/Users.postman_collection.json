@@ -14,7 +14,7 @@
 	"requests": [
 		{
 			"id": "322b3c2c-117a-155b-507e-fbc462542169",
-			"headers": "Content-Type: application/json\nG-Token: ROM831ESV\n",
+			"headers": "Content-Type: application/json\nG-Token: FIN001\n",
 			"headerData": [
 				{
 					"key": "Content-Type",
@@ -24,7 +24,7 @@
 				},
 				{
 					"key": "G-Token",
-					"value": "ROM831ESV",
+					"value": "FIN001",
 					"description": "",
 					"enabled": true
 				}
@@ -50,7 +50,7 @@
 		},
 		{
 			"id": "e91e602c-3236-3311-aad6-915be24edd69",
-			"headers": "Authorization: {{auth}}\nContent-Type: application/json\nG-Token: ROM831ESV\n",
+			"headers": "Authorization: {{auth}}\nContent-Type: application/json\nG-Token: FIN001\n",
 			"headerData": [
 				{
 					"key": "Authorization",
@@ -66,7 +66,7 @@
 				},
 				{
 					"key": "G-Token",
-					"value": "ROM831ESV",
+					"value": "FIN001",
 					"description": "",
 					"enabled": true
 				}

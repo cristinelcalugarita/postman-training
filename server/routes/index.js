@@ -2,7 +2,7 @@ const path = require("path");
 
 const apiToken = (req, res, next) => {
   const token = req.get("G-TOKEN");
-  if (token === "ROM831ESV") {
+  if (token === "FIN001") {
     next();
   } else {
     res.status(403).end();
